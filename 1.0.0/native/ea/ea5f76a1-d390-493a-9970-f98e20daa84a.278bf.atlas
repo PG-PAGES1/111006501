@@ -1,0 +1,41 @@
+
+xuanzhuananniu.jpg
+size: 535,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ring_a
+  rotate: true
+  xy: 330, 384
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+spin_glow_02
+  rotate: true
+  xy: 261, 2
+  size: 237, 238
+  orig: 237, 238
+  offset: 0, 0
+  index: -1
+spin_glow_03
+  rotate: false
+  xy: 330, 241
+  size: 143, 141
+  orig: 145, 144
+  offset: 1, 2
+  index: -1
+spin_glow_04
+  rotate: true
+  xy: 2, 264
+  size: 322, 326
+  orig: 332, 340
+  offset: 5, 7
+  index: -1
+spin_pattern
+  rotate: false
+  xy: 2, 4
+  size: 257, 258
+  orig: 257, 258
+  offset: 0, 0
+  index: -1

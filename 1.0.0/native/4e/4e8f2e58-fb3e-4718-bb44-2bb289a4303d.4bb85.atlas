@@ -1,0 +1,27 @@
+
+pinks.png
+size: 64,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pink-1
+  rotate: false
+  xy: 2, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+pink-2
+  rotate: false
+  xy: 28, 4
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+pink-3
+  rotate: false
+  xy: 16, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ui.png
+size: 801,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popBg
+  rotate: false
+  xy: 2, 2
+  size: 615, 466
+  orig: 615, 466
+  offset: 0, 0
+  index: -1
+popGlow
+  rotate: true
+  xy: 619, 233
+  size: 235, 180
+  orig: 235, 180
+  offset: 0, 0
+  index: -1

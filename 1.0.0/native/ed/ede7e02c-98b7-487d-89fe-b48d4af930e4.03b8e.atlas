@@ -1,0 +1,174 @@
+
+bgFX.jpg
+size: 1935,1803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom3/boom3_00
+  rotate: false
+  xy: 894, 1065
+  size: 388, 361
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_01
+  rotate: false
+  xy: 1282, 1440
+  size: 390, 361
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+boom3/boom3_02
+  rotate: false
+  xy: 394, 700
+  size: 388, 359
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_03
+  rotate: false
+  xy: 894, 1428
+  size: 386, 373
+  orig: 390, 390
+  offset: 4, 0
+  index: -1
+boom3/boom3_04
+  rotate: false
+  xy: 1284, 1069
+  size: 380, 369
+  orig: 390, 390
+  offset: 10, 0
+  index: -1
+boom3/boom3_05
+  rotate: false
+  xy: 784, 696
+  size: 376, 363
+  orig: 390, 390
+  offset: 14, 0
+  index: -1
+boom3/boom3_06
+  rotate: false
+  xy: 1166, 329
+  size: 374, 369
+  orig: 390, 390
+  offset: 16, 0
+  index: -1
+boom3/boom3_07
+  rotate: false
+  xy: 2, 922
+  size: 390, 379
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+boom3/boom3_08
+  rotate: false
+  xy: 502, 1424
+  size: 390, 377
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+boom3/boom3_09
+  rotate: false
+  xy: 2, 545
+  size: 388, 375
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_10
+  rotate: false
+  xy: 1162, 700
+  size: 374, 363
+  orig: 390, 390
+  offset: 16, 0
+  index: -1
+boom3/boom3_11
+  rotate: false
+  xy: 782, 367
+  size: 382, 327
+  orig: 390, 390
+  offset: 8, 0
+  index: -1
+boom3/boom3_12
+  rotate: false
+  xy: 1542, 47
+  size: 380, 303
+  orig: 390, 390
+  offset: 10, 0
+  index: -1
+boom3/boom3_13
+  rotate: false
+  xy: 392, 395
+  size: 388, 303
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_14
+  rotate: false
+  xy: 382, 40
+  size: 386, 353
+  orig: 390, 390
+  offset: 4, 0
+  index: -1
+boom3/boom3_15
+  rotate: false
+  xy: 770, 38
+  size: 384, 327
+  orig: 390, 390
+  offset: 6, 0
+  index: -1
+boom3/boom3_16
+  rotate: false
+  xy: 1156, 2
+  size: 384, 325
+  orig: 390, 390
+  offset: 6, 0
+  index: -1
+boom3/boom3_17
+  rotate: false
+  xy: 1538, 704
+  size: 378, 363
+  orig: 390, 390
+  offset: 12, 0
+  index: -1
+boom3/boom3_18
+  rotate: false
+  xy: 502, 1061
+  size: 390, 361
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+borderGlow
+  rotate: false
+  xy: 1674, 1317
+  size: 259, 194
+  orig: 259, 197
+  offset: 0, 2
+  index: -1
+circle
+  rotate: false
+  xy: 2, 162
+  size: 378, 381
+  orig: 378, 381
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1674, 1513
+  size: 255, 288
+  orig: 255, 288
+  offset: 0, 0
+  index: -1
+pattern_a
+  rotate: false
+  xy: 2, 1303
+  size: 498, 498
+  orig: 498, 498
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 1542, 352
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

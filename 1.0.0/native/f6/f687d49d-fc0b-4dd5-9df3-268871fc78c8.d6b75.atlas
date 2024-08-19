@@ -1,0 +1,34 @@
+
+bgTree.png
+size: 714,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_a_01
+  rotate: true
+  xy: 586, 4
+  size: 137, 126
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+flower_a_02
+  rotate: false
+  xy: 408, 51
+  size: 176, 90
+  orig: 176, 91
+  offset: 0, 0
+  index: -1
+flower_b_01
+  rotate: true
+  xy: 234, 4
+  size: 137, 172
+  orig: 137, 172
+  offset: 0, 0
+  index: -1
+flower_b_02
+  rotate: false
+  xy: 2, 2
+  size: 230, 139
+  orig: 230, 139
+  offset: 0, 0
+  index: -1

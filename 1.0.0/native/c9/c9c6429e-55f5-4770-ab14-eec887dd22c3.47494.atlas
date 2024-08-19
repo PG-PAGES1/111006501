@@ -1,0 +1,111 @@
+
+jiasu.jpg
+size: 1058,1058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiasu/fast_spin_00
+  rotate: true
+  xy: 244, 832
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_03
+  rotate: false
+  xy: 295, 539
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_04
+  rotate: true
+  xy: 295, 313
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_05
+  rotate: false
+  xy: 2, 154
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_06
+  rotate: true
+  xy: 521, 606
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_07
+  rotate: true
+  xy: 537, 832
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_09
+  rotate: false
+  xy: 588, 313
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_10
+  rotate: false
+  xy: 814, 539
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_11
+  rotate: false
+  xy: 814, 246
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_12
+  rotate: true
+  xy: 228, 87
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_14
+  rotate: false
+  xy: 521, 20
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_16
+  rotate: true
+  xy: 747, 20
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+jiasu/fast_spin_17
+  rotate: true
+  xy: 2, 447
+  size: 224, 291
+  orig: 224, 291
+  offset: 0, 0
+  index: -1
+shuangbeiguangxiao33
+  rotate: false
+  xy: 2, 673
+  size: 240, 383
+  orig: 240, 383
+  offset: 0, 0
+  index: -1
+shuangbeitexiao
+  rotate: true
+  xy: 830, 888
+  size: 168, 226
+  orig: 168, 226
+  offset: 0, 0
+  index: -1

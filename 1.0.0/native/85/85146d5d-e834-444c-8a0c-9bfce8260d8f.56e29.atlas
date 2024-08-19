@@ -1,0 +1,27 @@
+
+lantern.png
+size: 384,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 2, 2
+  size: 255, 288
+  orig: 255, 288
+  offset: 0, 0
+  index: -1
+lantern
+  rotate: false
+  xy: 292, 62
+  size: 90, 195
+  orig: 90, 195
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 292, 26
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
